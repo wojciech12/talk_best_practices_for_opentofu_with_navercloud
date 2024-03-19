@@ -33,4 +33,9 @@ resource "ncloud_server" "app1" {
     tag_key   = "managed_by"
     tag_value = "opentofu"
   }
+
+  tag_list {
+    tag_key   = "cost_center"
+    tag_value = "8899"
+  }
 }

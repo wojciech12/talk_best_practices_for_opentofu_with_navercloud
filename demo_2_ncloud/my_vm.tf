@@ -36,6 +36,6 @@ resource "ncloud_server" "app1" {
 
   tag_list {
     tag_key   = "cost_center"
-    tag_value = "889"
+    tag_value = "8899"
   }
 }

@@ -66,5 +66,9 @@ Imagine you need to add a tag for tracking costs `cost_center`:
 
 ## References
 
-- https://docs.spacelift.io/concepts/configuration/environment#per-stage-environment-variables
+- https://spacelift.io/how-it-works
+- https://docs.spacelift.io/getting-started
 - https://spacelift.io/blog/scalable-infrastructure
+- https://docs.spacelift.io/concepts/configuration/environment#per-stage-environment-variables
+- https://spacelift.io/blog/integrating-security-tools-with-spacelift
+- https://docs.spacelift.io/concepts/policy/terraform-plan-policy
